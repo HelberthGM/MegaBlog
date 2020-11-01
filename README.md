@@ -5,3 +5,10 @@ Un gran blog inspirado en el curso de Git y Github de Platzi, mira este meme:
 y este otro:
 
 ![alt text](https://pbs.twimg.com/media/DXxoQwLUQAALek2.jpg)
+
+### Este es un blog de prueba.
+## Estoy probando y aprendiendo:
+* GIT
+* GitHub
+* VS code
+💚
